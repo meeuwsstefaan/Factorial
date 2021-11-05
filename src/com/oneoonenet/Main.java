@@ -1,7 +1,7 @@
 package com.oneoonenet;
 
 /*
-Does not (need to) use recursion.
+Does not (need to) use recursion. I leave it up to the reader to decide which solution is best.
  */
 public class Main {
     public static void main(String[] args) {
