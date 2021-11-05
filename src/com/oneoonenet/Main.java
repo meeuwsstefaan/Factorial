@@ -1,5 +1,8 @@
 package com.oneoonenet;
 
+/*
+Does not (need to) use recursion.
+ */
 public class Main {
     public static void main(String[] args) {
         int n = 10;
